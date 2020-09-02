@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Matheus-Alpe/Matheus-Alpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá! 
+
+
+<h3> 👨🏻‍💻 Sobre mim: </h3>
+
+> - 🎓 &nbsp; Graduando Análise e Desenvolvimento de Sistemas.
+> - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de Software.
+> - 📚 &nbsp; Atualmente focando estudos/práticas em tecnologias Web (JS, HTML, CSS).
+
+
+<h3> 📧 Contato: </h3>
+
+> [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548991836171!)](https://api.whatsapp.com/send?phone=5548991836171!)
+&nbsp;
+> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matttalves@gmail.com)](mailto:matttalves@gmail.com)
+
+<br>
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Alpe&show_icons=true)
