@@ -8,8 +8,7 @@
 <h3> 👨🏻‍💻 Sobre mim: </h3>
 
 > - 🎓 &nbsp; Graduando Análise e Desenvolvimento de Sistemas.
-> - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de Software.
-> - 📚 &nbsp; Atualmente focando estudos/práticas em tecnologias Web (JS, HTML, CSS).
+> - 🤔📚 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de Software.
 
 
 <h3> 📧 Contato: </h3>
