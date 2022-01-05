@@ -2,5 +2,5 @@
 
 <h4> 👨🏻‍💻 Sobre mim: </h4>
 
-> - 🎓 &nbsp; Graduando Análise e Desenvolvimento de Sistemas. <br/>
+> - 🎓 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas. <br/>
 > - 📚 &nbsp; Estudando tecnologias Web.
